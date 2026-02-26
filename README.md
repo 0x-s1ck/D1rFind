@@ -2,7 +2,8 @@ DIR FIND ( /Index of )
 
 <img width="678" height="342" alt="{C35D0E6D-FD78-4B92-8F87-557A7DA094DC}" src="https://github.com/user-attachments/assets/fe42691b-a9ad-46ee-871e-c3aa410e24bb" />
 
-** Fitur **
+
+**Fitur**
 
 - Multi-threaded scanning - Cepat dengan 40 workers 
 
